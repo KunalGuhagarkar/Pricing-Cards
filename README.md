@@ -10,7 +10,7 @@ A responsive row of three pricing cards built with plain **HTML** and **CSS**. T
 
 ### Mobile
 
-![Mobile preview of the three pricing cards](./src/images/preview-mobile.png)
+<img src="./src/images/preview-mobile.png" alt="Mobile preview of the three pricing cards" width="200" />
 
 ## Features
 
